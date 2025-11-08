@@ -1,4 +1,4 @@
-# 💙 Isabella Normandia
+# 💙 Isabella Normandia Tebaldi
 
 <div align="center">
 
