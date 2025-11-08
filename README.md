@@ -1,6 +1,6 @@
 # Hi! Welcome to my Github profile👋
-## My name is Isabella, and I'm 
-## 👩‍💻 About Me
+## My name is Isabella 💙
+## 👩🏻 About Me
 I'm learning web development and building new projects to improve my skills.
 
 
