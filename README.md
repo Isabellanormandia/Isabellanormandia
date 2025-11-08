@@ -36,16 +36,6 @@ I'm currently learning web development and building projects to improve my skill
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Isabella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabella-Normandia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Normandia&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💬 Contact
 If you'd like to follow my journey or check my projects, feel free to explore my GitHub! 😊
+email: isabellanormadiasouza@gmail.com
