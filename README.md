@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi! Welcome to my Github profile👋
+## My name is Isabella, and I'm 
+## 👩‍💻 About Me
+I'm learning web development and building new projects to improve my skills.
+
 
 <!--
 **Isabellanormandia/Isabellanormandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
