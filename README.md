@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 👩‍💻 Web Developer in Progress
+## 👩‍💻 Software Development in Progress
 I'm currently learning web development and building projects to improve my skills. Welcome to my coding journey!
 
 </div>
